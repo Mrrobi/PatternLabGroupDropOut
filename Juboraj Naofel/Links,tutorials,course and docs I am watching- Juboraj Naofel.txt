@@ -10,7 +10,9 @@ https://www.coursera.org/learn/machine-learning
 
 
 
-
+Learning Google Colab:
+==========================================
+https://www.youtube.com/watch?v=41JItgtYGDo
 
 
 

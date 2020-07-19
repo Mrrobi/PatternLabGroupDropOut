@@ -15,5 +15,9 @@ Learning github:
 https://www.youtube.com/watch?v=WMykv2ZMyEQ&t=10s
 ---------------------------------------------------
 https://docs.github.com/en/github/getting-started-with-github/set-up-git
+in this official doc of Git,
+I am concentrating to learn,
+Github desktop, Github repositories, repo projects, branching, issues, pull requests, collaborations and others things
+I try to understand this doc randomly during my free time to learn new things about github
 
 

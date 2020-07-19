@@ -6,7 +6,9 @@ https://www.coursera.org/learn/machine-learning
 <Currently I am on week1>
 
 
-
+Learning Google Colab
+===========================================
+https://www.youtube.com/watch?v=41JItgtYGDo
 
 
 Learning github:

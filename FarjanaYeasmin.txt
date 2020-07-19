@@ -1,1 +1,9 @@
-
+  i just read through these papers and trying to understand the concepts
+  1.Paper : https://peerj.com/articles/4750/#
+ Link : https://github.com/shervinea/enzynet
+ 
+ 
+ 2.Paper :  https://www.biorxiv.org/content/10.1101/610444v1
+ Link : none
+ 
+ 3.https://pubmed.ncbi.nlm.nih.gov/29228185/

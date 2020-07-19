@@ -3,13 +3,7 @@ Learning ML:
 ==========================================
 Machine Learning, Andrew NG
 https://www.coursera.org/learn/machine-learning
-<Current I am on week1>
-
-
-
-
-
-
+<Currently I am on week1>
 
 
 

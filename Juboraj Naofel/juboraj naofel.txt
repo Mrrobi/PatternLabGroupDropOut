@@ -1,0 +1,12 @@
+papers I am reading:
+=========================================
+1. To Improve Protein Sequence Profile Prediction through Image Captioning on Pairwise Residue Distance Map
+https://www.biorxiv.org/content/10.1101/628917v2.full
+
+2. SCAN: Learning to Classify Images without Labels
+https://arxiv.org/pdf/2005.12320v2.pdf
+https://github.com/wvangansbeke/Unsupervised-Classification
+
+3. FaceNet: A Unified Embedding for Face Recognition and Clustering
+https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face
+

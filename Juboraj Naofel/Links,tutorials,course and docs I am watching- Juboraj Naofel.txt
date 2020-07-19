@@ -1,0 +1,25 @@
+
+Learning ML:
+==========================================
+Machine Learning, Andrew NG
+https://www.coursera.org/learn/machine-learning
+<Current I am on week1>
+
+
+
+
+
+
+
+
+
+
+
+Learning github:
+==========================================
+1.4: GitHub Issues - Git and GitHub for Poets
+https://www.youtube.com/watch?v=WMykv2ZMyEQ&t=10s
+---------------------------------------------------
+https://docs.github.com/en/github/getting-started-with-github/set-up-git
+
+

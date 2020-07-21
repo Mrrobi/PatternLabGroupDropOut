@@ -1,0 +1,25 @@
+
+Learning ML:
+==========================================
+Machine Learning, Andrew NG
+https://www.coursera.org/learn/machine-learning
+<Currently I am on week1>
+
+
+Learning Google Colab
+===========================================
+https://www.youtube.com/watch?v=41JItgtYGDo
+
+
+Learning github:
+==========================================
+1.4: GitHub Issues - Git and GitHub for Poets
+https://www.youtube.com/watch?v=WMykv2ZMyEQ&t=10s
+---------------------------------------------------
+https://docs.github.com/en/github/getting-started-with-github/set-up-git
+in this official doc of Git,
+I am concentrating to learn,
+Github desktop, Github repositories, repo projects, branching, issues, pull requests, collaborations and others things
+I try to understand this doc randomly during my free time to learn new things about github
+
+

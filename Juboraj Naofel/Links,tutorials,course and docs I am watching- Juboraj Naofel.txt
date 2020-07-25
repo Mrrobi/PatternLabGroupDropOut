@@ -5,6 +5,19 @@ Machine Learning, Andrew NG
 https://www.coursera.org/learn/machine-learning
 <Currently I am on week1>
 
+Binary Cross-Entropy
+https://www.youtube.com/watch?v=2ca_K2rgNVA
+
+Log Loss or Cross-Entropy Cost Function in Logistic Regression
+https://www.youtube.com/watch?v=MztgenIfGgM
+
+Lecture 6.4 — Logistic Regression | Cost Function — [ Machine Learning | Andrew Ng]
+https://www.youtube.com/watch?v=HIQlmHxI6-0
+
+https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+
+
+
 
 Learning Google Colab
 ===========================================

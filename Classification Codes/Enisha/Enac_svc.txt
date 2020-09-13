@@ -1,0 +1,573 @@
+
+1st Round:
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.7660127629402033 	Val accuracy :  0.32986767485822305
+train_accuracy :  0.769558024107776 	Val accuracy :  0.3223062381852552
+train_accuracy :  0.7891751359016781 	Val accuracy :  0.6876181474480151
+train_accuracy :  0.7897908543069834 	Val accuracy :  0.41087470449172575
+train_accuracy :  0.7959352475481508 	Val accuracy :  0.3475177304964539
+train_accuracy_ave :  0.7820944049609583 	val accuracy_ave: 0.4196368990959346
+Value of c 0.1
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.8316000945402978 	Val accuracy :  0.388468809073724
+train_accuracy :  0.8357362325691325 	Val accuracy :  0.3752362948960302
+train_accuracy :  0.8475537697943748 	Val accuracy :  0.6947069943289225
+train_accuracy :  0.8453267162944582 	Val accuracy :  0.5531914893617021
+train_accuracy :  0.8622237977076687 	Val accuracy :  0.4557919621749409
+train_accuracy_ave :  0.8444881221811865 	val accuracy_ave: 0.493479109967064
+Value of c 0.2
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.8804065232805484 	Val accuracy :  0.4068998109640832
+train_accuracy :  0.8832427322146065 	Val accuracy :  0.388468809073724
+train_accuracy :  0.8851335381706452 	Val accuracy :  0.7022684310018904
+train_accuracy :  0.881247784473591 	Val accuracy :  0.6189125295508274
+train_accuracy :  0.8968450903934775 	Val accuracy :  0.484160756501182
+train_accuracy_ave :  0.8853751337065738 	val accuracy_ave: 0.5201420674183413
+Value of c 0.3
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9273221460647602 	Val accuracy :  0.40311909262759926
+train_accuracy :  0.9243677617584496 	Val accuracy :  0.3908317580340265
+train_accuracy :  0.9217679035688963 	Val accuracy :  0.7074669187145558
+train_accuracy :  0.9143329788491079 	Val accuracy :  0.6638297872340425
+train_accuracy :  0.9283941864587026 	Val accuracy :  0.49692671394799054
+train_accuracy_ave :  0.9232369953399833 	val accuracy_ave: 0.5324348541116429
+Value of c 0.45
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9377215788229732 	Val accuracy :  0.40217391304347827
+train_accuracy :  0.9352398960056724 	Val accuracy :  0.391304347826087
+train_accuracy :  0.9301583549988183 	Val accuracy :  0.7088846880907372
+train_accuracy :  0.924022214344795 	Val accuracy :  0.6770685579196217
+train_accuracy :  0.9354838709677419 	Val accuracy :  0.5011820330969267
+train_accuracy_ave :  0.9325251830280001 	val accuracy_ave: 0.5361227079953702
+Value of c 0.5
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9610021271567005 	Val accuracy :  0.3955576559546314
+train_accuracy :  0.9555660600330891 	Val accuracy :  0.3931947069943289
+train_accuracy :  0.9500118175372252 	Val accuracy :  0.7093572778827977
+train_accuracy :  0.9437551695616212 	Val accuracy :  0.7063829787234043
+train_accuracy :  0.9547441805506321 	Val accuracy :  0.508274231678487
+train_accuracy_ave :  0.9530158709678537 	val accuracy_ave: 0.5425533702467298
+Value of c 0.65
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.970928858425904 	Val accuracy :  0.3832703213610586
+train_accuracy :  0.9649019144410305 	Val accuracy :  0.3790170132325142
+train_accuracy :  0.9610021271567005 	Val accuracy :  0.7136105860113422
+train_accuracy :  0.9539170506912442 	Val accuracy :  0.7290780141843972
+train_accuracy :  0.9627791563275434 	Val accuracy :  0.5087470449172576
+train_accuracy_ave :  0.9627058214084846 	val accuracy_ave: 0.542744595941314
+Value of c 0.75
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.974001418104467 	Val accuracy :  0.3752362948960302
+train_accuracy :  0.9685653509808556 	Val accuracy :  0.3747637051039698
+train_accuracy :  0.964783739068778 	Val accuracy :  0.7140831758034026
+train_accuracy :  0.9588798298475718 	Val accuracy :  0.735224586288416
+train_accuracy :  0.9663239985820631 	Val accuracy :  0.5087470449172576
+train_accuracy_ave :  0.9665108673167472 	val accuracy_ave: 0.5416109614018152
+Value of c 0.8
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9808555896951076 	Val accuracy :  0.3653119092627599
+train_accuracy :  0.977901205388797 	Val accuracy :  0.3638941398865784
+train_accuracy :  0.9729378397541952 	Val accuracy :  0.717391304347826
+train_accuracy :  0.9680964197093229 	Val accuracy :  0.757919621749409
+train_accuracy :  0.9748316199929103 	Val accuracy :  0.509692671394799
+train_accuracy_ave :  0.9749245349080666 	val accuracy_ave: 0.5428419293282746
+Value of c 0.95
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9792011344835736 	Val accuracy :  0.3700378071833648
+train_accuracy :  0.9745922949657292 	Val accuracy :  0.3700378071833648
+train_accuracy :  0.9710470337981565 	Val accuracy :  0.7150283553875236
+train_accuracy :  0.9656150301311591 	Val accuracy :  0.750354609929078
+train_accuracy :  0.9714049391468746 	Val accuracy :  0.5073286052009456
+train_accuracy_ave :  0.9723720865050985 	val accuracy_ave: 0.5425574369768553
+Value of c 0.9
+
+
+
+2nd round:
+-----------
+Range of c=[10,20,30,40,50,60,70,80,90,100]
+Best value of c=100
+
+
+
+-----
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31143667296786387
+train_accuracy :  1.0 	Val accuracy :  0.4068998109640832
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.5812277949831745
+value of c : 10
+
+
+value of c : 20
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 20
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 30
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 40
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 50
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 60
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 70
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 80
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 90
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 100
+
+3rd Round:
+----------
+range of c=[100,200,300,400,500,600,700,800,900,1000]
+best of c=1000
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 100
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 200
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 300
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 400
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 500
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 600
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 700
+
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 800
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 900
+
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.31049149338374293
+train_accuracy :  1.0 	Val accuracy :  0.4102079395085066
+train_accuracy :  1.0 	Val accuracy :  0.7977315689981096
+train_accuracy :  1.0 	Val accuracy :  0.8950354609929078
+train_accuracy :  1.0 	Val accuracy :  0.4950354609929078
+train_accuracy_ave :  1.0 	val accuracy_ave: 0.581700384775235
+value of c : 1000
+
+1st Round:
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.7660127629402033 	Val accuracy :  0.32986767485822305
+train_accuracy :  0.769558024107776 	Val accuracy :  0.3223062381852552
+train_accuracy :  0.7891751359016781 	Val accuracy :  0.6876181474480151
+train_accuracy :  0.7897908543069834 	Val accuracy :  0.41087470449172575
+train_accuracy :  0.7959352475481508 	Val accuracy :  0.3475177304964539
+train_accuracy_ave :  0.7820944049609583 	val accuracy_ave: 0.4196368990959346
+Value of c 0.1
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.8316000945402978 	Val accuracy :  0.388468809073724
+train_accuracy :  0.8357362325691325 	Val accuracy :  0.3752362948960302
+train_accuracy :  0.8475537697943748 	Val accuracy :  0.6947069943289225
+train_accuracy :  0.8453267162944582 	Val accuracy :  0.5531914893617021
+train_accuracy :  0.8622237977076687 	Val accuracy :  0.4557919621749409
+train_accuracy_ave :  0.8444881221811865 	val accuracy_ave: 0.493479109967064
+Value of c 0.2
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.8804065232805484 	Val accuracy :  0.4068998109640832
+train_accuracy :  0.8832427322146065 	Val accuracy :  0.388468809073724
+train_accuracy :  0.8851335381706452 	Val accuracy :  0.7022684310018904
+train_accuracy :  0.881247784473591 	Val accuracy :  0.6189125295508274
+train_accuracy :  0.8968450903934775 	Val accuracy :  0.484160756501182
+train_accuracy_ave :  0.8853751337065738 	val accuracy_ave: 0.5201420674183413
+Value of c 0.3
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9273221460647602 	Val accuracy :  0.40311909262759926
+train_accuracy :  0.9243677617584496 	Val accuracy :  0.3908317580340265
+train_accuracy :  0.9217679035688963 	Val accuracy :  0.7074669187145558
+train_accuracy :  0.9143329788491079 	Val accuracy :  0.6638297872340425
+train_accuracy :  0.9283941864587026 	Val accuracy :  0.49692671394799054
+train_accuracy_ave :  0.9232369953399833 	val accuracy_ave: 0.5324348541116429
+Value of c 0.45
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9377215788229732 	Val accuracy :  0.40217391304347827
+train_accuracy :  0.9352398960056724 	Val accuracy :  0.391304347826087
+train_accuracy :  0.9301583549988183 	Val accuracy :  0.7088846880907372
+train_accuracy :  0.924022214344795 	Val accuracy :  0.6770685579196217
+train_accuracy :  0.9354838709677419 	Val accuracy :  0.5011820330969267
+train_accuracy_ave :  0.9325251830280001 	val accuracy_ave: 0.5361227079953702
+Value of c 0.5
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9610021271567005 	Val accuracy :  0.3955576559546314
+train_accuracy :  0.9555660600330891 	Val accuracy :  0.3931947069943289
+train_accuracy :  0.9500118175372252 	Val accuracy :  0.7093572778827977
+train_accuracy :  0.9437551695616212 	Val accuracy :  0.7063829787234043
+train_accuracy :  0.9547441805506321 	Val accuracy :  0.508274231678487
+train_accuracy_ave :  0.9530158709678537 	val accuracy_ave: 0.5425533702467298
+Value of c 0.65
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.970928858425904 	Val accuracy :  0.3832703213610586
+train_accuracy :  0.9649019144410305 	Val accuracy :  0.3790170132325142
+train_accuracy :  0.9610021271567005 	Val accuracy :  0.7136105860113422
+train_accuracy :  0.9539170506912442 	Val accuracy :  0.7290780141843972
+train_accuracy :  0.9627791563275434 	Val accuracy :  0.5087470449172576
+train_accuracy_ave :  0.9627058214084846 	val accuracy_ave: 0.542744595941314
+Value of c 0.75
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.974001418104467 	Val accuracy :  0.3752362948960302
+train_accuracy :  0.9685653509808556 	Val accuracy :  0.3747637051039698
+train_accuracy :  0.964783739068778 	Val accuracy :  0.7140831758034026
+train_accuracy :  0.9588798298475718 	Val accuracy :  0.735224586288416
+train_accuracy :  0.9663239985820631 	Val accuracy :  0.5087470449172576
+train_accuracy_ave :  0.9665108673167472 	val accuracy_ave: 0.5416109614018152
+Value of c 0.8
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9808555896951076 	Val accuracy :  0.3653119092627599
+train_accuracy :  0.977901205388797 	Val accuracy :  0.3638941398865784
+train_accuracy :  0.9729378397541952 	Val accuracy :  0.717391304347826
+train_accuracy :  0.9680964197093229 	Val accuracy :  0.757919621749409
+train_accuracy :  0.9748316199929103 	Val accuracy :  0.509692671394799
+train_accuracy_ave :  0.9749245349080666 	val accuracy_ave: 0.5428419293282746
+Value of c 0.95
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  0.9792011344835736 	Val accuracy :  0.3700378071833648
+train_accuracy :  0.9745922949657292 	Val accuracy :  0.3700378071833648
+train_accuracy :  0.9710470337981565 	Val accuracy :  0.7150283553875236
+train_accuracy :  0.9656150301311591 	Val accuracy :  0.750354609929078
+train_accuracy :  0.9714049391468746 	Val accuracy :  0.5073286052009456
+train_accuracy_ave :  0.9723720865050985 	val accuracy_ave: 0.5425574369768553
+Value of c 0.9
+
+
+
+
+

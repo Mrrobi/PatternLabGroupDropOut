@@ -1,0 +1,668 @@
+RFC: kmer1  |   n = 100
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5392249527410208 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5094517958412098 	Test accuracy :  0.473
+train_accuracy :  1.0 	Val accuracy :  0.9007561436672968 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.9385342789598109 	Test accuracy :  0.5315
+train_accuracy :  1.0 	Val accuracy :  0.5295508274231678 	Test accuracy :  0.5195
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6835035997265012  | Test accuracy(avg): 0.5007999999999999
+================================================================================================
+RFC: kmer1  |   n = 150
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5562381852551985 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5212665406427222 	Test accuracy :  0.474
+train_accuracy :  1.0 	Val accuracy :  0.9035916824196597 	Test accuracy :  0.547
+train_accuracy :  1.0 	Val accuracy :  0.9404255319148936 	Test accuracy :  0.532
+train_accuracy :  1.0 	Val accuracy :  0.5295508274231678 	Test accuracy :  0.5155
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6902145535311284  | Test accuracy(avg): 0.49879999999999997
+================================================================================================
+RFC: kmer1  |   n = 200
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5482041587901701 	Test accuracy :  0.4265
+train_accuracy :  1.0 	Val accuracy :  0.5179584120982986 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.8998109640831758 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.53
+train_accuracy :  1.0 	Val accuracy :  0.5333333333333333 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6881356053394826  | Test accuracy(avg): 0.4978999999999999
+================================================================================================
+RFC: kmer1  |   n = 250
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5477315689981096 	Test accuracy :  0.426
+train_accuracy :  1.0 	Val accuracy :  0.5174858223062382 	Test accuracy :  0.463
+train_accuracy :  1.0 	Val accuracy :  0.9035916824196597 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.9423167848699764 	Test accuracy :  0.5295
+train_accuracy :  1.0 	Val accuracy :  0.5342789598108747 	Test accuracy :  0.5155
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6890809636809717  | Test accuracy(avg): 0.4976999999999999
+================================================================================================
+RFC: kmer1  |   n = 300
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.422
+train_accuracy :  1.0 	Val accuracy :  0.5089792060491494 	Test accuracy :  0.4625
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.9446808510638298 	Test accuracy :  0.5275
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6874743371453341  | Test accuracy(avg): 0.49589999999999995
+================================================================================================
+RFC: kmer1  |   n = 350
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5519848771266541 	Test accuracy :  0.4215
+train_accuracy :  1.0 	Val accuracy :  0.5108695652173914 	Test accuracy :  0.462
+train_accuracy :  1.0 	Val accuracy :  0.9040642722117203 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.9442080378250591 	Test accuracy :  0.528
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6892702677338483  | Test accuracy(avg): 0.496
+================================================================================================
+RFC: kmer1  |   n = 400
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.421
+train_accuracy :  1.0 	Val accuracy :  0.5085066162570888 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.5575
+train_accuracy :  1.0 	Val accuracy :  0.9423167848699764 	Test accuracy :  0.527
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6870015239065635  | Test accuracy(avg): 0.4968
+================================================================================================
+RFC: kmer1  |   n = 450
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5463137996219282 	Test accuracy :  0.422
+train_accuracy :  1.0 	Val accuracy :  0.5080340264650284 	Test accuracy :  0.461
+train_accuracy :  1.0 	Val accuracy :  0.9031190926275993 	Test accuracy :  0.559
+train_accuracy :  1.0 	Val accuracy :  0.9427895981087471 	Test accuracy :  0.528
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6870962206223438  | Test accuracy(avg): 0.49670000000000003
+================================================================================================
+RFC: kmer1  |   n = 500
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5486767485822306 	Test accuracy :  0.4225
+train_accuracy :  1.0 	Val accuracy :  0.5151228733459358 	Test accuracy :  0.462
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.5565
+train_accuracy :  1.0 	Val accuracy :  0.9423167848699764 	Test accuracy :  0.527
+train_accuracy :  1.0 	Val accuracy :  0.5361702127659574 	Test accuracy :  0.513
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6889866244799279  | Test accuracy(avg): 0.4962
+================================================================================================
+RFC: kmer1  |   n = 550
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5434782608695652 	Test accuracy :  0.4245
+train_accuracy :  1.0 	Val accuracy :  0.5108695652173914 	Test accuracy :  0.4615
+train_accuracy :  1.0 	Val accuracy :  0.9007561436672968 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.9418439716312057 	Test accuracy :  0.526
+train_accuracy :  1.0 	Val accuracy :  0.5361702127659574 	Test accuracy :  0.513
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6866236308302833  | Test accuracy(avg): 0.49590000000000006
+================================================================================================
+RFC: kmer1  |   n = 600
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5434782608695652 	Test accuracy :  0.424
+train_accuracy :  1.0 	Val accuracy :  0.5070888468809074 	Test accuracy :  0.464
+train_accuracy :  1.0 	Val accuracy :  0.9021739130434783 	Test accuracy :  0.555
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.526
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.513
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6858673530949604  | Test accuracy(avg): 0.49640000000000006
+================================================================================================
+RFC: kmer1  |   n = 650
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.426
+train_accuracy :  1.0 	Val accuracy :  0.5085066162570888 	Test accuracy :  0.4645
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.5245
+train_accuracy :  1.0 	Val accuracy :  0.5347517730496454 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6872850777817998  | Test accuracy(avg): 0.49670000000000003
+================================================================================================
+RFC: kmer1  |   n = 700
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5467863894139886 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5089792060491494 	Test accuracy :  0.466
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.5545
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.5265
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6869070059481515  | Test accuracy(avg): 0.4972
+================================================================================================
+RFC: kmer1  |   n = 750
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5467863894139886 	Test accuracy :  0.425
+train_accuracy :  1.0 	Val accuracy :  0.5080340264650284 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.554
+train_accuracy :  1.0 	Val accuracy :  0.9418439716312057 	Test accuracy :  0.5245
+train_accuracy :  1.0 	Val accuracy :  0.5333333333333333 	Test accuracy :  0.5125
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6865288447358189  | Test accuracy(avg): 0.4962
+================================================================================================
+RFC: kmer1  |   n = 800
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5094517958412098 	Test accuracy :  0.4655
+train_accuracy :  1.0 	Val accuracy :  0.9021739130434783 	Test accuracy :  0.5525
+train_accuracy :  1.0 	Val accuracy :  0.9432624113475178 	Test accuracy :  0.5255
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.513
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6871906492020718  | Test accuracy(avg): 0.49639999999999995
+================================================================================================
+RFC: kmer1  |   n = 850
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5482041587901701 	Test accuracy :  0.4265
+train_accuracy :  1.0 	Val accuracy :  0.5094517958412098 	Test accuracy :  0.4635
+train_accuracy :  1.0 	Val accuracy :  0.9040642722117203 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.9394799054373523 	Test accuracy :  0.523
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6870012557705113  | Test accuracy(avg): 0.496
+================================================================================================
+RFC: kmer1  |   n = 900
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5482041587901701 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5066162570888468 	Test accuracy :  0.464
+train_accuracy :  1.0 	Val accuracy :  0.9040642722117203 	Test accuracy :  0.554
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.523
+train_accuracy :  1.0 	Val accuracy :  0.5333333333333333 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.686717835963301  | Test accuracy(avg): 0.496
+================================================================================================
+RFC: kmer1  |   n = 950
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5486767485822306 	Test accuracy :  0.425
+train_accuracy :  1.0 	Val accuracy :  0.503780718336484 	Test accuracy :  0.4645
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.9380614657210402 	Test accuracy :  0.5235
+train_accuracy :  1.0 	Val accuracy :  0.5333333333333333 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6856778255953737  | Test accuracy(avg): 0.4962
+================================================================================================
+RFC: kmer1  |   n = 1000
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5486767485822306 	Test accuracy :  0.426
+train_accuracy :  1.0 	Val accuracy :  0.5023629489603024 	Test accuracy :  0.4645
+train_accuracy :  1.0 	Val accuracy :  0.9035916824196597 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.9385342789598109 	Test accuracy :  0.5225
+train_accuracy :  1.0 	Val accuracy :  0.5328605200945626 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6852052358033133  | Test accuracy(avg): 0.4962
+================================================================================================
+RFC: kmer1  |   n = 1050
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5477315689981096 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.505671077504726 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.5535
+train_accuracy :  1.0 	Val accuracy :  0.9380614657210402 	Test accuracy :  0.5225
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.513
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6855833523263037  | Test accuracy(avg): 0.49589999999999995
+================================================================================================
+RFC: kmer1  |   n = 1100
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.426
+train_accuracy :  1.0 	Val accuracy :  0.5051984877126654 	Test accuracy :  0.464
+train_accuracy :  1.0 	Val accuracy :  0.9026465028355387 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9394799054373523 	Test accuracy :  0.5225
+train_accuracy :  1.0 	Val accuracy :  0.5342789598108747 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.685772567000496  | Test accuracy(avg): 0.49560000000000004
+================================================================================================
+RFC: kmer1  |   n = 1150
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.426
+train_accuracy :  1.0 	Val accuracy :  0.5061436672967864 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9021739130434783 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.523
+train_accuracy :  1.0 	Val accuracy :  0.5347517730496454 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6862453355499246  | Test accuracy(avg): 0.49590000000000006
+================================================================================================
+RFC: kmer1  |   n = 1200
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.4255
+train_accuracy :  1.0 	Val accuracy :  0.5061436672967864 	Test accuracy :  0.4655
+train_accuracy :  1.0 	Val accuracy :  0.9031190926275993 	Test accuracy :  0.5525
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.523
+train_accuracy :  1.0 	Val accuracy :  0.5342789598108747 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6864343714667489  | Test accuracy(avg): 0.49610000000000004
+================================================================================================
+RFC: kmer1  |   n = 1250
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5482041587901701 	Test accuracy :  0.4265
+train_accuracy :  1.0 	Val accuracy :  0.504725897920605 	Test accuracy :  0.4655
+train_accuracy :  1.0 	Val accuracy :  0.9054820415879017 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.524
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.5135
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6867178806526432  | Test accuracy(avg): 0.4963
+================================================================================================
+RFC: kmer1  |   n = 1300
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5463137996219282 	Test accuracy :  0.4265
+train_accuracy :  1.0 	Val accuracy :  0.5051984877126654 	Test accuracy :  0.4655
+train_accuracy :  1.0 	Val accuracy :  0.9050094517958412 	Test accuracy :  0.5525
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.526
+train_accuracy :  1.0 	Val accuracy :  0.533806146572104 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6862452461712406  | Test accuracy(avg): 0.4969
+================================================================================================
+RFC: kmer1  |   n = 1350
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.428
+train_accuracy :  1.0 	Val accuracy :  0.5042533081285444 	Test accuracy :  0.4665
+train_accuracy :  1.0 	Val accuracy :  0.9040642722117203 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.526
+train_accuracy :  1.0 	Val accuracy :  0.5342789598108747 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6858672190269344  | Test accuracy(avg): 0.4973000000000001
+================================================================================================
+RFC: kmer1  |   n = 1400
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.428
+train_accuracy :  1.0 	Val accuracy :  0.5042533081285444 	Test accuracy :  0.466
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.5525
+train_accuracy :  1.0 	Val accuracy :  0.9394799054373523 	Test accuracy :  0.5255
+train_accuracy :  1.0 	Val accuracy :  0.5361702127659574 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6860562996331006  | Test accuracy(avg): 0.4972
+================================================================================================
+RFC: kmer1  |   n = 1450
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.4295
+train_accuracy :  1.0 	Val accuracy :  0.503780718336484 	Test accuracy :  0.4665
+train_accuracy :  1.0 	Val accuracy :  0.9040642722117203 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9404255319148936 	Test accuracy :  0.525
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6858672637162763  | Test accuracy(avg): 0.49749999999999994
+================================================================================================
+RFC: kmer1  |   n = 1500
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.429
+train_accuracy :  1.0 	Val accuracy :  0.5033081285444234 	Test accuracy :  0.4645
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9390070921985816 	Test accuracy :  0.5255
+train_accuracy :  1.0 	Val accuracy :  0.5366430260047281 	Test accuracy :  0.515
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6858672637162762  | Test accuracy(avg): 0.49720000000000003
+================================================================================================
+RFC: kmer1  |   n = 1550
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5458412098298677 	Test accuracy :  0.428
+train_accuracy :  1.0 	Val accuracy :  0.5042533081285444 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9054820415879017 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9390070921985816 	Test accuracy :  0.525
+train_accuracy :  1.0 	Val accuracy :  0.5347517730496454 	Test accuracy :  0.515
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6858670849589081  | Test accuracy(avg): 0.49700000000000005
+================================================================================================
+RFC: kmer1  |   n = 1600
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5482041587901701 	Test accuracy :  0.4285
+train_accuracy :  1.0 	Val accuracy :  0.504725897920605 	Test accuracy :  0.4665
+train_accuracy :  1.0 	Val accuracy :  0.9045368620037807 	Test accuracy :  0.551
+train_accuracy :  1.0 	Val accuracy :  0.9390070921985816 	Test accuracy :  0.525
+train_accuracy :  1.0 	Val accuracy :  0.5352245862884161 	Test accuracy :  0.515
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6863397194403107  | Test accuracy(avg): 0.49720000000000003
+================================================================================================
+RFC: kmer1  |   n = 1650
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5477315689981096 	Test accuracy :  0.428
+train_accuracy :  1.0 	Val accuracy :  0.5051984877126654 	Test accuracy :  0.4665
+train_accuracy :  1.0 	Val accuracy :  0.9035916824196597 	Test accuracy :  0.551
+train_accuracy :  1.0 	Val accuracy :  0.9385342789598109 	Test accuracy :  0.5245
+train_accuracy :  1.0 	Val accuracy :  0.5366430260047281 	Test accuracy :  0.514
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6863398088189948  | Test accuracy(avg): 0.4968
+================================================================================================
+RFC: kmer1  |   n = 1700
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.4275
+train_accuracy :  1.0 	Val accuracy :  0.5051984877126654 	Test accuracy :  0.465
+train_accuracy :  1.0 	Val accuracy :  0.9054820415879017 	Test accuracy :  0.551
+train_accuracy :  1.0 	Val accuracy :  0.9404255319148936 	Test accuracy :  0.527
+train_accuracy :  1.0 	Val accuracy :  0.5366430260047281 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6870016132852476  | Test accuracy(avg): 0.49700000000000005
+================================================================================================
+RFC: kmer1  |   n = 1750
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5486767485822306 	Test accuracy :  0.4275
+train_accuracy :  1.0 	Val accuracy :  0.5061436672967864 	Test accuracy :  0.4675
+train_accuracy :  1.0 	Val accuracy :  0.9064272211720227 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9404255319148936 	Test accuracy :  0.5275
+train_accuracy :  1.0 	Val accuracy :  0.5380614657210402 	Test accuracy :  0.5145
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6879469269373948  | Test accuracy(avg): 0.49779999999999996
+================================================================================================
+RFC: kmer1  |   n = 1800
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5477315689981096 	Test accuracy :  0.4275
+train_accuracy :  1.0 	Val accuracy :  0.5080340264650284 	Test accuracy :  0.466
+train_accuracy :  1.0 	Val accuracy :  0.9050094517958412 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9418439716312057 	Test accuracy :  0.5255
+train_accuracy :  1.0 	Val accuracy :  0.5375886524822695 	Test accuracy :  0.515
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6880415342744909  | Test accuracy(avg): 0.49720000000000003
+================================================================================================
+RFC: kmer1  |   n = 1850
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5486767485822306 	Test accuracy :  0.429
+train_accuracy :  1.0 	Val accuracy :  0.5089792060491494 	Test accuracy :  0.4665
+train_accuracy :  1.0 	Val accuracy :  0.9059546313799622 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.941371158392435 	Test accuracy :  0.525
+train_accuracy :  1.0 	Val accuracy :  0.5375886524822695 	Test accuracy :  0.516
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6885140793772093  | Test accuracy(avg): 0.49770000000000003
+================================================================================================
+RFC: kmer1  |   n = 1900
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5472589792060492 	Test accuracy :  0.43
+train_accuracy :  1.0 	Val accuracy :  0.5085066162570888 	Test accuracy :  0.467
+train_accuracy :  1.0 	Val accuracy :  0.9064272211720227 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.524
+train_accuracy :  1.0 	Val accuracy :  0.5371158392434988 	Test accuracy :  0.516
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6880414002064648  | Test accuracy(avg): 0.49779999999999996
+================================================================================================
+RFC: kmer1  |   n = 1950
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5467863894139886 	Test accuracy :  0.429
+train_accuracy :  1.0 	Val accuracy :  0.5103969754253308 	Test accuracy :  0.466
+train_accuracy :  1.0 	Val accuracy :  0.9054820415879017 	Test accuracy :  0.552
+train_accuracy :  1.0 	Val accuracy :  0.9408983451536643 	Test accuracy :  0.5245
+train_accuracy :  1.0 	Val accuracy :  0.5371158392434988 	Test accuracy :  0.5155
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6881359181648768  | Test accuracy(avg): 0.4974
+================================================================================================
+RFC: kmer1  |   n = 2000
+Fold :  1
+Fold :  2
+Fold :  3
+Fold :  4
+Fold :  5
+done
+train_accuracy :  1.0 	Val accuracy :  0.5463137996219282 	Test accuracy :  0.429
+train_accuracy :  1.0 	Val accuracy :  0.5094517958412098 	Test accuracy :  0.467
+train_accuracy :  1.0 	Val accuracy :  0.9059546313799622 	Test accuracy :  0.5525
+train_accuracy :  1.0 	Val accuracy :  0.9404255319148936 	Test accuracy :  0.525
+train_accuracy :  1.0 	Val accuracy :  0.5375886524822695 	Test accuracy :  0.5155
+------------------------------------------------------------------------------------------------
+Train accuracy(avg): 1.0 | Val accuracy(avg): 0.6879468822480527  | Test accuracy(avg): 0.49779999999999996
+================================================================================================
+
+
+
+ c      train                   val                    test
+===================================================================
+100  -  1.0 - 0.6835035997265012 - 0.5007999999999999
+--------------------------------------------------------------------
+150  -  1.0 - 0.6902145535311284 - 0.49879999999999997
+--------------------------------------------------------------------
+200  -  1.0 - 0.6881356053394826 - 0.4978999999999999
+--------------------------------------------------------------------
+250  -  1.0 - 0.6890809636809717 - 0.4976999999999999
+--------------------------------------------------------------------
+300  -  1.0 - 0.6874743371453341 - 0.49589999999999995
+--------------------------------------------------------------------
+350  -  1.0 - 0.6892702677338483 - 0.496
+--------------------------------------------------------------------
+400  -  1.0 - 0.6870015239065635 - 0.4968
+--------------------------------------------------------------------
+450  -  1.0 - 0.6870962206223438 - 0.49670000000000003
+--------------------------------------------------------------------
+500  -  1.0 - 0.6889866244799279 - 0.4962
+--------------------------------------------------------------------
+550  -  1.0 - 0.6866236308302833 - 0.49590000000000006
+--------------------------------------------------------------------
+600  -  1.0 - 0.6858673530949604 - 0.49640000000000006
+--------------------------------------------------------------------
+650  -  1.0 - 0.6872850777817998 - 0.49670000000000003
+--------------------------------------------------------------------
+700  -  1.0 - 0.6869070059481515 - 0.4972
+--------------------------------------------------------------------
+750  -  1.0 - 0.6865288447358189 - 0.4962
+--------------------------------------------------------------------
+800  -  1.0 - 0.6871906492020718 - 0.49639999999999995
+--------------------------------------------------------------------
+850  -  1.0 - 0.6870012557705113 - 0.496
+--------------------------------------------------------------------
+900  -  1.0 - 0.686717835963301 - 0.496
+--------------------------------------------------------------------
+950  -  1.0 - 0.6856778255953737 - 0.4962
+--------------------------------------------------------------------
+1000  -  1.0 - 0.6852052358033133 - 0.4962
+--------------------------------------------------------------------
+1050  -  1.0 - 0.6855833523263037 - 0.49589999999999995
+--------------------------------------------------------------------
+1100  -  1.0 - 0.685772567000496 - 0.49560000000000004
+--------------------------------------------------------------------
+1150  -  1.0 - 0.6862453355499246 - 0.49590000000000006
+--------------------------------------------------------------------
+1200  -  1.0 - 0.6864343714667489 - 0.49610000000000004
+--------------------------------------------------------------------
+1250  -  1.0 - 0.6867178806526432 - 0.4963
+--------------------------------------------------------------------
+1300  -  1.0 - 0.6862452461712406 - 0.4969
+--------------------------------------------------------------------
+1350  -  1.0 - 0.6858672190269344 - 0.4973000000000001
+--------------------------------------------------------------------
+1400  -  1.0 - 0.6860562996331006 - 0.4972
+--------------------------------------------------------------------
+1450  -  1.0 - 0.6858672637162763 - 0.49749999999999994
+--------------------------------------------------------------------
+1500  -  1.0 - 0.6858672637162762 - 0.49720000000000003
+--------------------------------------------------------------------
+1550  -  1.0 - 0.6858670849589081 - 0.49700000000000005
+--------------------------------------------------------------------
+1600  -  1.0 - 0.6863397194403107 - 0.49720000000000003
+--------------------------------------------------------------------
+1650  -  1.0 - 0.6863398088189948 - 0.4968
+--------------------------------------------------------------------
+1700  -  1.0 - 0.6870016132852476 - 0.49700000000000005
+--------------------------------------------------------------------
+1750  -  1.0 - 0.6879469269373948 - 0.49779999999999996
+--------------------------------------------------------------------
+1800  -  1.0 - 0.6880415342744909 - 0.49720000000000003
+--------------------------------------------------------------------
+1850  -  1.0 - 0.6885140793772093 - 0.49770000000000003
+--------------------------------------------------------------------
+1900  -  1.0 - 0.6880414002064648 - 0.49779999999999996
+--------------------------------------------------------------------
+1950  -  1.0 - 0.6881359181648768 - 0.4974
+--------------------------------------------------------------------
+2000  -  1.0 - 0.6879468822480527 - 0.49779999999999996
+--------------------------------------------------------------------
